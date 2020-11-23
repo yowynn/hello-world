@@ -1,2 +1,2 @@
 # hello-world
-origin info
+Hello World and Goodbye.
